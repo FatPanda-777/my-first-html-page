@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <title>Inglorious</title>  
+<body>
+ <b><h1>The songs that I loved in 2024</h1></b>
+ 
+    <li><a draggable=true href="https://music.youtube.com/watch?v=9GEk1cnJeX4&list=RDAMVM9GEk1cnJeX4">Parinda-Jal The Band</a></li>
+    <img src="https://lh3.googleusercontent.com/me8sLyuFJjCbWgcqk0zT50ZusfiCdAMZKGOUFaFUs5lguR8h0_Rq9nPXei1lX13Q6cxK1kUbPTpRVLQ6=w544-h544-l90-rj" width="100" height="100"/>
+    
+    <li><a href="https://music.youtube.com/watch?v=bClb8VR4sZw&list=RDAMVM9GEk1cnJeX4">Bandya-Rohil Hyatt</a></li>
+    <img src="https://lh3.googleusercontent.com/tTO8Kra6VNd08qCkCm3RJcbY6XX7nE2YLEJRdIc09TThPmS81cK90PybUpG-Vz-lbuGOXUZmaD94AfiysA=w544-h544-s-l90-rj"width="100" height="100"/>
+    <li><a href="https://music.youtube.com/search?q=sajni">Sajni Re-Laapta Ladies</a></li>
+    <img src="https://lh3.googleusercontent.com/ftDdTjYV0ofe0WxH5JqtNg4eS7yF2nKYv3WbCRp_yGj8GRFTHq2eW_MF0NdmECV5IrjTL1VTSV2gTV8=w120-h120-l90-rj"width="100" height="100"/>
+    <li><a href="https://music.youtube.com/watch?v=mt-5ZbKqiDc&list=RDAMVMmt-5ZbKqiDc">Ye Tune Kya Kiya-Javed Bashir</a></li>
+    <img src="https://i.ytimg.com/vi/mt-5ZbKqiDc/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3k8jBK6XI0Hs4JV-yDFgfiJfqxahQ"width="100" height="100"/>
+ 
+ 
+
+</body>
+</html>
